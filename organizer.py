@@ -7,7 +7,8 @@ file_types = {
     "Images": [".jpg", ".jpeg", ".png", ".gif"],
     "Documents": [".pdf", ".docx", ".txt"],
     "Videos": [".mp4", ".mkv", ".avi"],
-    "Audio": [".mp3", ".wav"]
+    "Audio": [".mp3", ".wav"],
+    "Archives" :[".zip", ".rar"]
 }
 
 for file in os.listdir(folder_path):

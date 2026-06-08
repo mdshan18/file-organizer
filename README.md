@@ -31,3 +31,8 @@ After:
 Images/
 Videos/
 Documents/
+
+##Screenshots
+
+##project run output
+![Run Output](screenshots/readme1.png)

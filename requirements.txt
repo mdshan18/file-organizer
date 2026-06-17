@@ -1,1 +1,8 @@
-#No External Dependencies Required
+# No external dependencies required
+# This tool uses only Python built-in modules
+# Requires: Python 3.6+
+
+# Built-in modules used:
+# - os (file system operations)
+# - shutil (file moving/copying)
+# - pathlib (path handling)
